@@ -27,7 +27,7 @@ function Navbarlanding(){
                         <NavLink style={{color:'black',marginLeft:'56px',marginTop:'13px',font:'normal normal normal 18px/27px Poppins'}}>Login</NavLink>
                 </NavItem>
             </Nav>
-=        </Navbar>
+       </Navbar>
     )
 }
 
