@@ -1,0 +1,34 @@
+.case{
+    padding-top: 200px;
+    margin-top: -639px;
+    width: 1920px;
+    height: 1470px;
+    opacity: 1;
+    background:#0e77ff0d 0% 0% no-repeat padding-box;
+}
+
+.bus{
+    width: 519px;
+    height: 305px;
+    background: transparent url('./img/bus.png') 0% 0% no-repeat padding-box;
+    border-radius: 10px 10px 0px 0px;
+}
+.asdas{
+    width: 519px;
+    height: 305px;
+    background: transparent url('./img/asdas.png') 0% 0% no-repeat padding-box;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.lady{
+    width: 519px;
+    height: 305px;
+    background: transparent url('./img/lady.png') 0% 0% no-repeat padding-box;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.arrowcase{
+    width: 7px;
+    height: 12px;
+    background: transparent url('./img/arrow-down-sign-to-navigate.png') 0% 0% no-repeat padding-box;
+}

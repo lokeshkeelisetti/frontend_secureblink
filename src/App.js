@@ -1,23 +1,23 @@
-import logo from './logo.svg';
+import Landing from './Components/Landing';
 import './App.css';
-
+import Aboutus from './Components/Aboutus';
+import Services from './Components/Services';
+import Workflow from './Components/Workflow';
+import Coretech from './Components/Coretech';
+import Testimonial from './Components/Testimonial';
+import Casestudy from './Components/Casestudy';
+import Feedback from './Components/Feedback';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='artboard'>
+      <Landing />
+      <Aboutus />
+      <Services />
+      <Workflow />
+      <Coretech />
+      <Testimonial />
+      <Casestudy />
+      <Feedback />
     </div>
   );
 }

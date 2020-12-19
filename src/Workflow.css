@@ -1,0 +1,34 @@
+.workhead{
+    margin-top: 287px;
+    margin-left: 866px;
+    width: 190px;
+    height: 56px;
+    text-align: left;
+    font: normal normal 600 40px/50px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.workdescrip{
+    margin-top: 21px;
+    margin-left: 554px;
+    width: 814px;
+    height: 75px;
+    text-align: center;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.stepwork{
+    width: 121px;
+    height: 45px;
+    background: #16B2FF17 0% 0% no-repeat padding-box;
+    border-radius: 31px;
+    opacity: 1;
+    text-align: center;
+    font: normal normal 600 20px/50px Poppins;
+    color: #0E77FF;
+}

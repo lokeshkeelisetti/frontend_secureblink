@@ -1,0 +1,87 @@
+.back{
+    margin-top: 485px;
+    margin-left: -0.00048828125px;
+    width: 1920px;
+    height: 1120px;
+    background: transparent url('./img/backfeed.png') 0% 0% no-repeat padding-box;
+}
+
+.callcentre{
+    position: relative;
+    bottom: -63px;
+    margin-left: 22px;
+    width: 874px;
+    height: 589px;
+    background: transparent url('./img/callcentre.png') 0% 0% no-repeat padding-box;
+}
+
+.formcard{
+    width: 747px;
+    height: 836px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 40px 60px #0E77FF26;
+    position: relative;
+    bottom: 183px;
+    padding-top: 100px;
+    padding-left: 88px;
+}
+
+.arrowfeed{
+    margin-top: 29.92px;
+    margin-bottom: 29.86px;
+    width: 7px;
+    height: 12px;
+    background: transparent url('./img/arrow-down-sign-to-navigate.png') 0% 0% no-repeat padding-box;
+}
+
+.getstartedfeed{
+    padding-top:19px;
+    padding-right: 8.84px;
+    padding-left: 42px;
+    padding-bottom: 22px;
+    width: 173px;
+    height: 31px;
+    text-align: left;
+    font: normal normal normal 25px/31px Muli;
+    letter-spacing: 0px;
+    color: white;
+    opacity: 1;
+}
+
+.rectangle1029feed{
+    margin-top: 20px;
+    width: 239px;
+    height: 72px;
+    background-color: #0E77FF;
+    border-radius: 35px;
+    display: flex;
+}
+
+.facebook{
+    background: transparent url('./img/facebook.png') 0% 0% no-repeat padding-box;
+}
+.twitter{
+    background: transparent url('./img/twitter.png') 0% 0% no-repeat padding-box;
+}
+.insta{
+    background: transparent url('./img/insta.png') 0% 0% no-repeat padding-box;
+    border: white;
+}
+
+.location{
+    background: transparent url('./img/location.png') 0% 0% no-repeat padding-box;
+    width:24px;
+    height: 30px;
+}
+
+.phoneicon{
+    background: transparent url('./img/phoneicon.png') 0% 0% no-repeat padding-box;
+    width:24px;
+    height: 30px;
+}
+
+.mail{
+    background: transparent url('./img/mail.png') 0% 0% no-repeat padding-box;
+    width:30px;
+    height: 30px;
+}

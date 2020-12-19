@@ -1,0 +1,117 @@
+.core{
+    width: 1920px;
+    height: 1197px;
+    opacity: 1;
+    background:#0e77ff0d 0% 0% no-repeat padding-box;
+    padding-top: 1px;
+    margin-top: 295px;
+}
+
+.corehead{
+    margin-top: 287px;
+    margin-left: 771px;
+    width: 378px;
+    height: 56px;
+    text-align: left;
+    font: normal normal 600 40px/50px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.coredescrip{
+    margin-top: 21px;
+    margin-left: 520px;
+    width: 814px;
+    height: 75px;
+    text-align: center;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.coredash{
+    margin-top: 36px;
+    margin-left: 613px;
+    width: 694px;
+    height: 81px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 40px 60px #0E77FF26;
+    border-radius: 72px;
+    opacity: 1;
+    display: flex;
+}
+
+.logocore{
+    width: 140px;
+    height: 140px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #0E77FF;
+    border-radius: 9px;
+    opacity: 1;
+}
+
+.react-icon{
+    width: 93px;
+    height: 84px;
+    background: transparent url('./img/React-icon.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.amazon-whit{
+    width: 88px;
+    height: 53px;
+    background: transparent url('./img/Amazon_Web_Services_Logo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.maskgroup1{
+    width: 98px;
+    height: 98px;
+    background: transparent url('./img/maskgroup1.png') 0% 0% no-repeat padding-box;
+}
+
+.redux{
+    width: 77px;
+    height: 73px;
+    background: transparent url('./img/redux-logo.png') 0% 0% no-repeat padding-box;
+}
+
+.js{
+    width: 71px;
+    height: 71px;
+    background: transparent url('./img/js.png') 0% 0% no-repeat padding-box;
+}
+
+.g10{
+    width: 74px;
+    height: 74px;
+    background: transparent url('./img/g10.png') 0% 0% no-repeat padding-box;
+}
+
+.amazon-blu{
+    width: 88px;
+    height: 53px;
+    background: transparent url('./img/amazon-blue.png') 0% 0% no-repeat padding-box;
+}
+
+.node{
+    width: 106px;
+    height: 105px;
+    background: transparent url('./img/node.png') 0% 0% no-repeat padding-box;
+}
+
+.path3{
+    width: 59px;
+    height: 81px;
+    background: transparent url('./img/path3.png') 0% 0% no-repeat padding-box;
+}
+
+.group35700{
+    margin-top: -1239px;
+    margin-left: -137.46983337402344px;
+    width: 720px;
+    height: 564px;
+    background: transparent url('./img/group35700.png') 0% 0% no-repeat padding-box;
+}
