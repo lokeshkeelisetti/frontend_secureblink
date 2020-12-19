@@ -3,7 +3,7 @@ import {  Form, FormGroup, Label, Input } from 'reactstrap';
 
 function Feedback(){
     return(
-        <div style={{height:'1369px',paddingTop:'316px'}}>
+        <div style={{height:'1933px',paddingTop:'316px'}}>
             <div className='back'>
                 <div style={{display:'flex'}}>
                     <div className='callcentre' />
